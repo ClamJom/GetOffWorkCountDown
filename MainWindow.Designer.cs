@@ -73,26 +73,26 @@ namespace CountDown
             this.notifyMenuStrip.Name = "notifyMenuStrip";
             this.notifyMenuStrip.ShowCheckMargin = true;
             this.notifyMenuStrip.ShowImageMargin = false;
-            this.notifyMenuStrip.Size = new System.Drawing.Size(181, 92);
+            this.notifyMenuStrip.Size = new System.Drawing.Size(149, 70);
             // 
             // NotifyCloseMenu
             // 
             this.NotifyCloseMenu.Name = "NotifyCloseMenu";
-            this.NotifyCloseMenu.Size = new System.Drawing.Size(180, 22);
+            this.NotifyCloseMenu.Size = new System.Drawing.Size(148, 22);
             this.NotifyCloseMenu.Text = "关闭";
             this.NotifyCloseMenu.Click += new System.EventHandler(this.NotifyMenuItemClose_Click);
             // 
             // allowTransparentMenuItem
             // 
             this.allowTransparentMenuItem.Name = "allowTransparentMenuItem";
-            this.allowTransparentMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.allowTransparentMenuItem.Size = new System.Drawing.Size(148, 22);
             this.allowTransparentMenuItem.Text = "点击穿透";
             this.allowTransparentMenuItem.Click += new System.EventHandler(this.allowTransparentMenuItem_Click);
             // 
             // setEndTimeMenuItem
             // 
             this.setEndTimeMenuItem.Name = "setEndTimeMenuItem";
-            this.setEndTimeMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.setEndTimeMenuItem.Size = new System.Drawing.Size(148, 22);
             this.setEndTimeMenuItem.Text = "设置截止时间";
             this.setEndTimeMenuItem.Click += new System.EventHandler(this.setEndTimeMenuItem_Click);
             // 

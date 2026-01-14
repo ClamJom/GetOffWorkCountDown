@@ -417,10 +417,3 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-=======
-/.vs/*
-/bin/*
-/obj/*
-/*.resx
-/*.csproj
->>>>>>> 5f29201 (first commit)
